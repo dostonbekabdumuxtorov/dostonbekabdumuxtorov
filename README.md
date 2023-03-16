@@ -22,7 +22,6 @@ I am a Frontend developer 💻 with 2 years experience. Being an Software Develo
 </a> 
 </a>
 </div>  
-<br/>  
 
 
 
@@ -45,7 +44,6 @@ I am a Frontend developer 💻 with 2 years experience. Being an Software Develo
       alt="adampithewan" height="30" width="40" /></a>
 </p>
 
-<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
