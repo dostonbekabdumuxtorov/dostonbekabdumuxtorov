@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://miro.medium.com/max/1200/1*NOs7p4ZXaC4bGLd4NdRU-g.png">
+    <img src="https://i.imgur.com/SVC0AwV.png">
 </p>
 
 ## <div align="center">Hey 👋, I'm  Dostonbek</div>  
