@@ -13,7 +13,7 @@ I am a Frontend developer 💻 with 2 years experience. Being an Software Develo
 <a href="https://linkedin.com/in/dostonbek-abdumuxtorov/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="mailto:abdumuxtorov.dostonbek.main@gmail.com" target="_blank">
+<a href="https://gmail.com/abdumuxtorov.dostonbek.main@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=Gmail style="margin-bottom: 5px;" />
 </a>  
  </a>
