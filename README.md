@@ -1,7 +1,9 @@
 <p align="center">
     <img src="https://i.imgur.com/SVC0AwV.png">
 </p>
+اللَّهُمَّ صَلَّ عَلَى سَيِّدِنا مُحَمَّدٍ
 
+وَعَلَى الِهِ وَصَحْبِهِ وَسَلَّمْ
 ## <div align="center">Hey 👋, I'm  Dostonbek</div>  
  
 ## Glad to see you here !✨  
