@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://i.imgur.com/SVC0AwV.png">
+    <img style="height:300px;width:100%;object-fit:cover;" src="https://i.imgur.com/SVC0AwV.png](https://wallpaperbat.com/img/356204-hexagon-cover-photo-facebook.jpg">
 </p>
 اللَّهُمَّ صَلَّ عَلَى سَيِّدِنا مُحَمَّدٍ
 
