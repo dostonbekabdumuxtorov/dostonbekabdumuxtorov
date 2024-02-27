@@ -19,14 +19,6 @@ I am a Frontend developer 💻 with 3 years experience. Being an Software Develo
 <img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white? alt=telegram style="margin-bottom: 5px;" />
 </a> 
 </a>
-</div>  
-
-
-
-
-
-
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
       alt="bootstrap" width="40" height="40" /> </a>  <a href="https://www.w3schools.com/css/" target="_blank"
@@ -57,6 +49,15 @@ I am a Frontend developer 💻 with 3 years experience. Being an Software Develo
     
         
    </p>
+</div>  
+
+
+
+
+
+
+<h3 align="left">Languages and Tools:</h3>
+
 
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=dostonbekabdumuxtorov&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
